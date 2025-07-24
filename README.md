@@ -1,8 +1,5 @@
 # Python-EDA-Project
 Exploratory Data Analysis using Python (pandas, matplotlib, seaborn)
-# Python-EDA-Project
-
-Exploratory Data Analysis using Python (pandas, matplotlib, seaborn)
 
 ## 🔍 Project Learnings
 
